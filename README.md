@@ -8,3 +8,6 @@ If you have a GCode file you wish to share, create a pull request or add the fil
 - [x] GCODE files
 - [x] Files containing primarily M300 commands
 - [ ] Files containing movement commands
+
+# Conversion
+Convert MIDI to GCODE directly using: https://alexyu132.github.io/midi-m300/
